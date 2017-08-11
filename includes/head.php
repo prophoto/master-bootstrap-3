@@ -12,7 +12,7 @@ JHtml::_('bootstrap.framework');
 	<jdoc:include type="head" />
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
 	<!--[if lte IE 8]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<?php  if ($pie == 1) : ?>
 			<style>
 				{behavior:url(<?php  echo $tpath; ?>/js/PIE.htc);}
